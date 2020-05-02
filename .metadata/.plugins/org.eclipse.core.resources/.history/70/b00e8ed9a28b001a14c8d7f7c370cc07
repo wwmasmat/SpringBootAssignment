@@ -1,0 +1,15 @@
+package com.example.demo.dao;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.pojo.Locality;
+
+@Repository
+public class LocalityDao {
+
+	public Locality addLocalityWithWaterTank(Locality locality) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

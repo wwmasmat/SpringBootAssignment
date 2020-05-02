@@ -1,0 +1,23 @@
+package com.example.demo.entity;
+
+import java.util.Set;
+
+import javax.persistence.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Entity
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class LocalityEntity {
+	
+	private Integer localityId;
+	private String locality;
+	private String streetName;
+	private String city;
+	private Set<WaterTankEntity> waterTanks;
+
+}

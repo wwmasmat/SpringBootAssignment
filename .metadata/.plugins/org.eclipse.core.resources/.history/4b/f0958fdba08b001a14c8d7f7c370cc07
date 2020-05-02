@@ -1,0 +1,18 @@
+package com.example.demo.pojo;
+
+import java.util.Date;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class WaterTank {
+	
+	private Integer waterTankId;
+	private Integer capacity;
+	private Date lastCleaned;
+
+}

@@ -1,0 +1,12 @@
+package com.example.demo.pojo;
+
+import java.util.Date;
+
+public class WaterTank {
+	
+	private Integer waterTankId;
+	private Integer localityId;
+	private Integer capacity;
+	private Date lastCleaned;
+
+}

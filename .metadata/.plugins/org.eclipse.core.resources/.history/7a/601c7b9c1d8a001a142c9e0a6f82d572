@@ -1,0 +1,13 @@
+package com.example.demo.entity;
+
+import java.util.Date;
+
+public class WaterTankEntity {
+	
+	private Integer waterTankId;
+	private Integer capacity;
+	private Date lastCleaned;
+	
+	private LocalityEntity locality;
+
+}

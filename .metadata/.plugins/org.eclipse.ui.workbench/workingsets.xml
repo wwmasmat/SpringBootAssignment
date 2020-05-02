@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588164873926_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=SpringBoot_OneToMany_MySQL/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SpringBoot_OneToMany_MySQL/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SpringBoot_OneToMany_MySQL/target\/generated-sources\/annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=007SpringBoot-OneToMany-Relationship/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=007SpringBoot-OneToMany-Relationship/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=007SpringBoot-OneToMany-Relationship/target\/generated-sources\/annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=008SpringBoot-ManyToMany-Relationship/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=008SpringBoot-ManyToMany-Relationship/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=008SpringBoot-ManyToMany-Relationship/target\/generated-sources\/annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588164873957_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=SpringBoot_OneToMany_MySQL/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SpringBoot_OneToMany_MySQL/target\/generated-test-sources\/test-annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=007SpringBoot-OneToMany-Relationship/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=007SpringBoot-OneToMany-Relationship/target\/generated-test-sources\/test-annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=008SpringBoot-ManyToMany-Relationship/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=008SpringBoot-ManyToMany-Relationship/target\/generated-test-sources\/test-annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588164880370_2" label="Window Working Set" name="Aggregate for window 1588164880370"/>
+</workingSetManager>

@@ -1,0 +1,49 @@
+1. ADD Locality
+   Method : POST
+   http://localhost:4444/locality/add
+{
+   "locality":"ABC",
+   "streetName":"ABC Street",
+   "city":"Mumbai",
+   "waterTanks":[
+      {
+         "capacity":20,
+         "lastCleanedDate":"2020-04-30"
+      },
+      {
+         "capacity":40,
+         "lastCleanedDate":"2020-04-29"
+      }
+   ]
+}
+
+
+2. Find Locality By Id
+Method : GET
+http://localhost:4444/locality/find/3
+
+
+3. Find all locality
+Method : GET
+http://localhost:4444/locality/findAll
+
+
+4. Update Locality Details/Water Tank
+http://localhost:4444/locality/update
+Method : PUT
+{
+   "localityId":3,
+   "streetName":"ABC Street",
+   "locality":"ABC",
+   "city":"Mumbai",
+   "waterTanks":[
+      {
+         "capacity":30,
+         "lastCleanedDate":"2019-07-15"
+      }
+   ]
+}
+
+6. Delete Locality By id
+http://localhost:4444/locality/delete/3
+Method : DELETE

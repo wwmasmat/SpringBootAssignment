@@ -1,0 +1,41 @@
+package com.example.demo.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.entity.WaterTankEntity;
+import com.example.demo.pojo.Locality;
+import com.example.demo.repository.LocalityRepository;
+import com.example.demo.repository.WaterTankRepository;
+
+@Repository
+public class LocalityDao {
+	
+	@Autowired
+	private LocalityRepository localityRepository;
+	
+	@Autowired
+	private WaterTankRepository waterTankRepository;
+	
+
+	public Locality addLocalityWithWaterTank(Locality locality) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	private static LocalityEntity convertLocalityToLocalityEntity() {
+		
+	}
+
+	private static Locality convertLocalityEntityToLocality() {
+		
+	}
+	
+	private static WaterTankEntity convertWaterTankToWaterTankEntity() {
+		
+	}
+
+	private static WaterTank convertWaterTankEntityToWaterTank() {
+	
+	}
+}

@@ -1,0 +1,70 @@
+1. ADD Student
+   Method : POST
+   http://localhost:4444/studentCourse/add
+{
+   "studentName":"Asmat",
+   "courseList":[
+      {	
+         "courseName":"Java",
+         "courseDuration":"1"
+      },
+      {
+         "courseName":"Spring",
+         "courseDuration":"2"
+      }
+   ]
+}
+============================================================================================   
+1. ADD Student
+   Method : POST
+   http://localhost:4444/studentCourse/add
+{
+   "studentName":"Komal",
+   "courseList":[
+      {	
+      	"id":"1",
+         "courseName":"Apache Camel",
+         "courseDuration":"1"
+      },
+      {
+      	"id":"2",
+         "courseName":"Spring Boot",
+         "courseDuration":"2"
+      }
+   ]
+}
+
+============================================================================================ 
+2. Find Student By Id
+Method : GET
+http://localhost:4444/studentCourse/find/3
+
+============================================================================================ 
+3. Find all Students
+Method : GET
+http://localhost:4444/studentCourse/findAll
+
+============================================================================================ 
+4. Update Student Details
+http://localhost:4444/studentCourse/update
+Method : PUT
+{
+	"id": 6,
+   "studentName":"Komal",
+   "courseList":[
+      {	
+      	"id":"1",
+         "courseName":"C++",
+         "courseDuration":"1"
+      },
+      {
+      	"id":"2",
+         "courseName":"C",
+         "courseDuration":"2"
+      }
+   ]
+}
+============================================================================================ 
+5. Delete Student By id
+http://localhost:4444/studentCourse/delete/3
+Method : DELETE

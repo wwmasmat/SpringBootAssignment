@@ -13,10 +13,8 @@
 <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
@@ -24,7 +22,6 @@
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.example.demo.repository.LocalityRepository"/>
 <fullyQualifiedTypeName name="com.example.demo.repository.WaterTankRepository"/>
-<fullyQualifiedTypeName name="com.example.demo.entity.WaterTankEntity"/>
 <fullyQualifiedTypeName name="com.example.demo.pojo.WaterTank"/>
 <fullyQualifiedTypeName name="java.util.stream.Collector"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
@@ -33,9 +30,13 @@
 <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
 <fullyQualifiedTypeName name="javax.persistence.Temporal"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-<fullyQualifiedTypeName name="com.example.demo.entity.LocalityEntity"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="org.springframework.cglib.core.CollectionUtils"/>
 <fullyQualifiedTypeName name="org.springframework.util.CollectionUtils"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="com.example.demo.entity.LocalityEntity"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.orm.jpa.LocalEntityManagerFactoryBean"/>
+<fullyQualifiedTypeName name="com.example.demo.entity.WaterTankEntity"/>
 </qualifiedTypeNameHistroy>
